@@ -37,3 +37,8 @@ yarn install
 ![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
 ![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
 
+# :man_technologist: Author
+
+[(Back to top)](#React-Native-Onboarding-Screens)
+
+Built by Ayan M 👋 [Get in touch!](https://www.linkedin.com/in/ayan-m-dev/)
