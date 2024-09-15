@@ -39,6 +39,4 @@ yarn install
 
 # :man_technologist: Author
 
-[(Back to top)](#React-Native-Onboarding-Screens)
-
 Built by Ayan M 👋 [Get in touch!](https://www.linkedin.com/in/ayan-m-dev/)
